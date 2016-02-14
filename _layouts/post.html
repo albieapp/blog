@@ -18,8 +18,12 @@ layout: default
         </p>
     </div>
 
-    <div class="post-content" itemprop="articleBody">
-        {{ content }}
+    <div class="post-content">
+        <div class="post-body" itemprop="articleBody">
+            {{ content }}
+        </div>
+
+        {% include newsletter.html %}
     </div>
 
     <div class="post-paging">
