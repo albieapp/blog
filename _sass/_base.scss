@@ -1,3 +1,5 @@
+$spacing: 30px;
+
 body {
     font-size: 1.6rem;
     font-family: "Source Sans Pro", sans-serif;
@@ -9,4 +11,13 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$spacing: 30px;
+.logo {
+    position: fixed;
+    top: 20px;
+    left: 50px;
+    z-index: 2;
+
+    img {
+        height: 20px;
+    }
+}
