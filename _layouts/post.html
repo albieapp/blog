@@ -21,4 +21,18 @@ layout: default
         {{ content }}
     </div>
 
+    <div class="post-paging">
+        {% if page.previous.url %}
+            <a href="{{page.previous.url}}" class="prev">← Prev</a>
+        {% else %}
+            <span class="prev disabled">← Prev</span>
+        {% endif %}
+
+        {% if page.next.url %}
+            <a href="{{page.next.url}}" class="next">Next →</a>
+        {% else %}
+            <span class="next disabled">Next →</span>
+        {% endif %}
+    </div>
+
 </article>

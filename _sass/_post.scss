@@ -44,6 +44,44 @@
         }
     }
 
+    .post-paging {
+        .next, .prev {
+            width: 50%;
+            height: 50px;
+            line-height: 50px;
+            background-color: rgba(0,0,0,0.5);
+            text-align: center;
+            color: white;
+            font-size: 16px;
+            text-decoration: none;
+
+            -webkit-transition: background 0.2s;
+            -moz-transition: background 0.2s;
+            transition: background 0.2s;
+
+            &:hover {
+                background-color: rgba(0,0,0,0.7);
+            }
+        }
+
+        .prev {
+            float: left;
+        }
+
+        .next {
+            float: right;
+        }
+
+        .disabled {
+            color: rgba(255,255,255,0.5);
+            cursor: not-allowed;
+
+            &:hover {
+                background-color: rgba(0,0,0,0.5);
+            }
+        }
+    }
+
     @media only screen and (min-width: 768px)
     {
         .post-image {
@@ -61,6 +99,13 @@
             right: 0;
             bottom: 0;
             overflow-y: scroll;
+        }
+
+        .post-paging {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 50%;
         }
     }
 }
