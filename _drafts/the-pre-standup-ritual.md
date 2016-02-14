@@ -20,4 +20,10 @@ Each morning, before the standup, I ask myself a series of questions to help me 
 - Who's lacking feature work?
 - Is the build passing?
 
-I absorb answers to these questions from Information Radiators because it helps to maintain the teams focus on our goals during the standup.
+I absorb answers to these questions from Information Radiators at the start of the day. By doing this, I can maintain a focus on goals within a team during the standup instead of worrying about holiday-cover or how to resolve a particular impediment.
+
+Alistair Cockburn described Information Radiators as:
+
+> A display posted in a place where people can see it as they work or walk by. It shows readers information they care about without having to ask anyone a question. This means more communication with fewer interruptions.
+
+Next time you facilitate a standup, spend a few moments absorbing information from your Information Radiators. Focus your team's attention less on status updating and more towards creating a plan for a successful day.
