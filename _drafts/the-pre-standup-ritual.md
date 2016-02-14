@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "The Pre-Standup Ritual"
+image: /img/the-pre-standup-ritual.jpg
+author: Andrew Cairns
 ---
-# The Pre-Standup Ritual
 
-A standup is most effective when each member is prepared - including the Scrum Master.
+##  A standup is most effective when each member is prepared - including the Scrum Master.
+
 Each morning, before the standup, I ask myself a series of questions to help me find out as much information as possible:
 
 - Is anyone on holiday today?

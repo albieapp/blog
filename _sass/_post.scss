@@ -1,0 +1,63 @@
+.post {
+
+    .post-image {
+        color: white;
+        padding: 64px 48px;
+        box-sizing: border-box;
+        min-height: 238px;
+
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+
+        h1 {
+            margin: 0;
+            font-size: 55px;
+            line-height: 55px;
+        }
+
+        .post-meta {
+            font-size: 14px;
+        }
+    }
+
+    .post-content {
+        font-size: 16px;
+        padding: 64px 48px;
+
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 0;
+            color: rgb(52, 54, 66);
+        }
+
+        h1 {
+            font-size: 55px;
+            line-height: 55px;
+        }
+
+        h2 {
+            font-size: 30px;
+            line-height: 30px;
+        }
+    }
+
+    @media only screen and (min-width: 768px)
+    {
+        .post-image {
+            position: fixed;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 50%;
+        }
+
+        .post-content {
+            position: fixed;
+            left: 50%;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            overflow-y: scroll;
+        }
+    }
+}
