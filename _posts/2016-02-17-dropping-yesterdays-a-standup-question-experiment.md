@@ -5,11 +5,11 @@ image: /img/dropping-yesterdays-a-standup-question-experiment.jpg
 author: Andrew Cairns
 ---
 
-## Recently I ran an experiment with a distributed software team where "yesterdays" were dropped from the regular set of standup questions.
+## Recently I ran an experiment with a distributed software team where _"yesterdays"_ were dropped from the regular set of standup questions.
 
-The reason we tried this was to reduce the expectation that a standup was a place solely for reporting status. Over time, the team had slipped into a habit of focusing the majority of time communicating "what was done". Not enough time was spent synchronizing and creating a plan of action for the day. This resulted in less attention on accomplishing the Sprint Goal and determining if the team was still on track to complete the Increment as planned.
+The reason we tried this was to reduce the expectation that a standup was a place solely for reporting status. Over time, the team had slipped into a habit of focusing the majority of time communicating _"what was done"_. Not enough time was spent synchronizing and creating a plan of action for the day. This resulted in less attention on accomplishing the Sprint Goal and determining if the team was still on track to complete the Increment as planned.
 
-The experiment ran for a single sprint - two weeks. However, I was surprised how quickly I knew the experiment was failing. Even though it succeeded in terms of helping the team refocus on the Increment, not celebrating even the most minor achievements was greatly missed. At the next Retrospective we decided to re-introduce "yesterdays" to the daily standup.
+The experiment ran for a single sprint - two weeks. However, I was surprised how quickly I knew the experiment was failing. Even though it succeeded in terms of helping the team refocus on the Increment, not celebrating even the most minor achievements was greatly missed. At the next Retrospective we decided to re-introduce _"yesterdays"_ to the daily standup.
 
 For the next few weeks, I reflected on what we learned, but it wasn't until a conversation with James McGivern, [Mike Pearce](https://twitter.com/MikePearce) and [Stephen Vance](https://twitter.com/StephenRVance) that I finally managed to understand why we were feeling the need to celebrate the small wins. James said:
 
