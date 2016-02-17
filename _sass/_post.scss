@@ -22,7 +22,7 @@
     }
 
     .post-content {
-        font-size: 16px;
+        font-size: 18px;
         padding: 64px 48px;
 
         .post-body *:first-child {
@@ -41,6 +41,17 @@
         h2 {
             font-size: 30px;
             line-height: 30px;
+        }
+
+        a {
+            color: #222;
+        }
+
+        blockquote {
+            border-left: solid 3px #888;
+            padding-left: 15px;
+            margin: 15px;
+            font-style: italic;
         }
     }
 
