@@ -11,7 +11,7 @@ The reason we tried this was to reduce the expectation that a standup was a plac
 
 The experiment ran for a single sprint - two weeks. However, I was surprised how quickly I knew the experiment was failing. Even though it succeeded in terms of helping the team refocus on the Increment, not celebrating even the most minor achievements was greatly missed. At the next Retrospective we decided to re-introduce _"yesterdays"_ to the daily standup.
 
-For the next few weeks, I reflected on what we learned, but it wasn't until a conversation with James McGivern, [Mike Pearce](https://twitter.com/MikePearce) and [Stephen Vance](https://twitter.com/StephenRVance) that I finally managed to understand why we were feeling the need to celebrate the small wins. James said:
+For the next few weeks, I reflected on what we learned, but it wasn't until a conversation with [James McGivern](https://twitter.com/SorryNoRemorse), [Mike Pearce](https://twitter.com/MikePearce) and [Stephen Vance](https://twitter.com/StephenRVance) that I finally managed to understand why we were feeling the need to celebrate the small wins. James said:
 
 > "I think yesterdays are less useful when a story progresses across most of the board in a day, because the board itself tells the story"
 
