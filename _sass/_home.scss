@@ -27,4 +27,14 @@
             }
         }
     }
+
+    .newsletter-list-item {
+        background-color: rgba(0,0,0,0.02);
+
+        .newsletter {
+            padding: 50px;
+            max-width: 500px;
+            margin: auto;
+        }
+    }
 }
